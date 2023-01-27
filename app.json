@@ -5,8 +5,8 @@
         "telegram",
         "bypass"
     ],
-    "website": "https://github.com/irfan36bot/Link-Bypasser-Bot",
-    "repository": "https://github.com/irfan36bot/Link-Bypasser-Bot",
+    "website": "https://github.com/angel-loveyou/sed-Bypasser-Bot2",
+    "repository": "https://github.com/angel-loveyou/sed-Bypasser-Bot2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
@@ -67,7 +67,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "Eco"
         }
     }
 }
